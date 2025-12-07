@@ -1,2 +1,9 @@
-# Calculadora-subredes
-Calculadora CLI de subredes IPv4/IPv6 en Python. Soporta subneteo de tamaño fijo (FLSM) y variable (VLSM) optimizado. Genera tablas detalladas con rangos de IPs útiles, broadcast y máscaras. Incluye exportación a CSV.
+# Calculadora de Subneteo IP (IPv4/IPv6)
+
+## Descripción:
+Resuelve la complejidad y los errores comunes del cálculo manual de redes. Permite a estudiantes y administradores de red realizar subneteos de tamaño fijo (FLSM) y variable (VLSM) de manera instantánea, visualizando rangos de IPs útiles, direcciones de broadcast y máscaras en tablas claras, con opción de exportar los resultados a CSV.
+
+## Tecnologías:
+- Lenguaje: Python 3
+- Librerías: ipaddress (cálculo de redes), tabulate (visualización de tablas), 
+csv (exportación de datos).
